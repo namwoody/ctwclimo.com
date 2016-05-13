@@ -1,0 +1,36 @@
+#navigation {
+	background-color:#9E272A;
+    border-radius:5px;
+    margin-top:20px;
+
+
+}
+
+
+
+#navigation ul li {
+	
+
+color:#fff;
+display:inline;
+float:left;
+
+
+ a {
+ 
+ color:#fff;
+
+ &:hover {
+ background-color:#fff;
+ opacity:0.7;
+ color:#000;
+ }
+ 
+ }
+
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+	    text-decoration: none;
+    background-color: none !important;
+}

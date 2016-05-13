@@ -1,0 +1,103 @@
+#top-bar {
+  background-color: #fff;
+  height: 30px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); }
+
+.quotes {
+  background-color: #9E272A;
+  width: 200px;
+  text-align: center;
+  float: right;
+  font-size: 1.2em;
+  font-weight: 300;
+  height: 30px;
+  line-height: 30px; }
+  .quotes a {
+    color: #fff; }
+
+#logo img {
+  margin-top: 30px; }
+
+#page-header {
+  margin-top: 20px; }
+
+#top_address_bar {
+  text-align: right;
+  font-size: 1.4em;
+  font-weight: 300;
+  margin-top: 20px; }
+  #top_address_bar strong {
+    color: red; }
+
+#services {
+  border: 1px dotted #000;
+  margin-top: 60px; }
+  #services span {
+    padding: 10px; }
+  #services ul li {
+    margin-left: 20px; }
+    #services ul li a {
+      color: #e6740f; }
+
+#sidebar_service {
+  margin-top: 80px;
+  overflow: hidden; }
+
+#supsystic-table-1_filter {
+  padding-top: 30px;
+  border: none;
+  margin-right: 40px; }
+
+#supsystic-table-1_wrapper caption {
+  font-size: 1.3em;
+  color: #000;
+  text-shadow: 0px 0px 1px rgba(0, 0, 0, 0.5); }
+
+#sidebar_image {
+  background-image: url("../assets/images/photo_services.jpg");
+  background-repeat: no-repeat;
+  height: 600px;
+  opacity: 0.3; }
+
+#footer {
+  background-color: #ccc;
+  border-top: 1px solid #eef;
+  text-align: center;
+  font-size: 1.1em;
+  margin-top: 40px; }
+
+#footer_nav {
+  text-align: center;
+  margin-top: 40px; }
+  #footer_nav ul {
+    list-style: none; }
+    #footer_nav ul li {
+      display: inline;
+      margin-right: 30px; }
+
+/************** home page *****************/
+#modal-footer {
+  border: none; }
+
+body#tinymce {
+  margin: 12px !important; }
+
+#navigation {
+  background-color: #9E272A;
+  border-radius: 5px;
+  margin-top: 20px; }
+
+#navigation ul li {
+  color: #fff;
+  display: inline;
+  float: left; }
+  #navigation ul li a {
+    color: #fff; }
+    #navigation ul li a:hover {
+      background-color: #fff;
+      opacity: 0.7;
+      color: #000; }
+
+.nav > li > a:focus, .nav > li > a:hover {
+  text-decoration: none;
+  background-color: none !important; }
