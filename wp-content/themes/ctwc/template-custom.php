@@ -61,7 +61,7 @@ Out-of-Town Rates
 
 
 <div class="col-md-9 col-xs-12">
-	<?php echo supsystic_tables_get(1); ?>
+	
 
 
 <?php the_content(); ?>
