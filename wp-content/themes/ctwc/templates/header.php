@@ -213,14 +213,14 @@
 <div class="container">
   <div class="row">
     <div class="col-md-4" id="logo">
-        <a  href="#">
+        <a  href="http://ctwclimo.com/">
                  <img src="<?php bloginfo('template_directory'); ?>/assets/images/logo.png" alt="ctwc logo"  width="260px;" / >   
                 </a>
     </div>
 
 <div class="col-md-8"  id="top_address_bar">
-  <p class="email"><strong>Email</strong>ctwclimo@gmail.com</p> 
-  <p class="phone_number"><strong>Call Us</strong>203-707-2388</p>
+  <p class="email"><strong>Email: </strong> &nbsp;&nbsp;ctwclimo@gmail.com</p> 
+  <p class="phone_number"><strong>Call Us</strong>&nbsp;&nbsp; 203-707-2388</p>
   
 
 </div>
