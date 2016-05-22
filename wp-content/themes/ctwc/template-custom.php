@@ -15,25 +15,11 @@
 	<span>Select from the following to get specific &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; rates and information:</span>
 
 
-<ul>
-New York City
-<li><a href="">Manhattan</a></li>								
-<li><a href="">Bronx</a></li>								
-<li><a href="">Brooklyn</a></li>								
-<li><a href="">Staten Island</a></li>								
-<li><a href="">Borough to Borough</a></li>
 
-</ul>
 
 <ul>
-Out-of-Town Rates
-<li><a href="">Connecticut</a></li>								
-<li><a href="">Long Island</a></li>								
-<li><a href="">New Jersey</a></li>								
-<li><a href="">New York State</a></li>								
-<li><a href="">Pennsylvania</a></li>
-<li><a href="">Westchester</a></li>	    
 
+<?php wp_list_pages('title_li=&include=14,31,35,39,47'); ?>
 </ul>
 
 <ul>
