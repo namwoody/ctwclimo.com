@@ -202,14 +202,23 @@
                 <h2>Services</h2>
                 <img src="<?php bloginfo('template_directory'); ?>/assets/images/limo.jpg" class="img-rounded" width="260px;" />
                 <br />
-                <p style="padding-top: 10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
-                <a class="btn btn-default" href="#">More Info</a>
+                <p style="padding-top: 10px;">
+                    <ul>
+                       <?php wp_list_pages('title_li=0&include=31,35,47,39,14');?>
+                    </ul>
+
+
+
+                </p>
+                <a class="btn btn-default" href="/services">More Info</a>
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-4" id="about_col">
                 <h2>About us</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat. Recusandae, suscipit, soluta quibusdam accusamus a veniam quaerat eveniet eligendi dolor consectetur.</p>
-                <a class="btn btn-default" href="#">More Info</a>
+                <p>
+                    CTWCLimo believes in offering the best possible transportation to all travelers in the Tri- State area through an unequalled level of quality service, stressing comfort and affordability. We offer door-to- door passenger transportation service for our clients.
+             </p>
+                <a class="btn btn-default" href="/about-us">More Info</a>
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-4" id="feedback_col">
