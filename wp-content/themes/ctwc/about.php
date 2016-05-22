@@ -10,7 +10,7 @@
 <div class="row">
 	
 
-<div class="col-md-12 col-xs-12">
+<div class="col-md-12 col-xs-12" style="padding:20px;">
 
 
 <?php the_content(); ?>

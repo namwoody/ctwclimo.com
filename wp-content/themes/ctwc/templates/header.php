@@ -219,8 +219,8 @@
     </div>
 
 <div class="col-md-8"  id="top_address_bar">
-  <p class="email"><strong>Email</strong> info@ctwc.com</p> 
-  <p class="phone_number"><strong>Call Us</strong>+000 00 000 000</p>
+  <p class="email"><strong>Email</strong>ctwclimo@gmail.com</p> 
+  <p class="phone_number"><strong>Call Us</strong>203-707-2388</p>
   
 
 </div>
