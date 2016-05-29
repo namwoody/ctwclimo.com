@@ -32,11 +32,11 @@
    <table cellpadding="0" cellspacing="7" border="0" align="left" style="text-align:left;">
    <tbody><tr>
      <td><strong>Pick-up Location:</strong></td>
-     <td><select name="pickuploc" id="pickuploc" class="home-select form-control" style="width:200px;"><option value="0" selected="selected">-- Select Pick-up Location --</option><option value="2">55 Test  Drive, Dallas, TX</option><option value="1">99 xxxxx Street, Houston, TX</option></select></td>
+     <td><input name="pickuploc" id="pickuploc" class="home-select form-control" type="text"   style="width:200px;"></td>
     </tr>
     <tr>
      <td><strong>Drop-Off Location:</strong></td>
-     <td><select name="dropoffloc" id="dropoffloc" class="home-select form-control" style="width:200px;"><option value="0" selected="selected">-- Select Drop-off Location --</option><option value="2">55 Test  Drive, Dallas, TX</option><option value="1">99 xxxxx Street, Houston, TX</option></select></td>
+     <td><input name="dropoffloc" id="dropoffloc" class="home-select form-control" type="text" readonly="readonly" autocomplete="OFF" style="width:200px;"></td>
     </tr>
    <tr>
      <td><strong>Car Type:</strong></td>
