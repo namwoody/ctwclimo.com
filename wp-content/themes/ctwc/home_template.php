@@ -21,6 +21,7 @@
 
   <div class="col-md-12">
  <!-- start slider -->
+<?php layerslider(1); ?>
 
 
 
