@@ -21,7 +21,10 @@
 
   <div class="col-md-12">
  <!-- start slider -->
-<?php layerslider(1); ?>
+
+
+
+<?php  echo do_shortcode('[layerslider id="1"]'); ?>
 
 
 
