@@ -20,15 +20,18 @@
    
 
   <div class="col-md-12">
+ <!-- start slider -->
+
+
+
+
+
  
 
 
 
- <?php 
-    echo do_shortcode("[metaslider id=9]"); 
-?>
- 
 
+<!-- end slider -->
 
             </div>
 
