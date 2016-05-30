@@ -24,7 +24,7 @@
 
 
 
-<?php  echo do_shortcode('[layerslider id="1"]'); ?>
+<?php the_content(); ?>
 
 
 
