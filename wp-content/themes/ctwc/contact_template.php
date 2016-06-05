@@ -26,7 +26,7 @@
 	</div>
 
 
-<div class="col-md-6">
+<div class="col-md-6" style="padding-top: 30px;">
 	
 
 
